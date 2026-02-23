@@ -13,7 +13,7 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          github_user_name: hesraz99
+          github_user_name: Hesraz99
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
