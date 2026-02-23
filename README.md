@@ -46,11 +46,11 @@ Experienced in remote collaboration with EU and international teams.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/hesraz99/hesraz99/output/pacman-contribution-graph-dark.svg">
+          srcset="https://raw.githubusercontent.com/Hesraz99/Hesraz99/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/hesraz99/hesraz99/output/pacman-contribution-graph.svg">
+          srcset="https://raw.githubusercontent.com/Hesraz99/Hesraz99/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" 
-       src="https://raw.githubusercontent.com/hesraz99/hesraz99/output/pacman-contribution-graph.svg">
+       src="https://raw.githubusercontent.com/Hesraz99/Hesraz99/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
